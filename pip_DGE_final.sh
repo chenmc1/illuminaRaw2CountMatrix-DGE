@@ -274,3 +274,4 @@ done
 
 cat $workingDir/05_readsCount/*.txt > $workingDir/05_readsCount/rawcount.csv
 # rename this total csv file and then copy the column infor file to a local dir.
+# refer a python pipeline: https://github.com/maxplanck-ie/rna-seq-qc/blob/master/rna-seq-qc.py
